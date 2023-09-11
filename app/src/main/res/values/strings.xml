@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodMood</string>
+    <string name="search_box">جستجو در فود مود</string>
+    <string name="new_food">جدیدترین منوهای غذایی</string>
+    <string name="restaurant">رستوران های اطراف</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
