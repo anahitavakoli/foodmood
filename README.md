@@ -1,9 +1,9 @@
 # Foodmood
 An app for request food from nearby restaurant
 
-Features:
+## Features:
 
-MVP architecture
-Retrofit
-Custom view
-Single tone
+- MVP architecture
+- Retrofit
+- Custom view
+- Single tone
